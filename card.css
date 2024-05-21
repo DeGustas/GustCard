@@ -1,0 +1,199 @@
+body {
+    background: linear-gradient(to right, #161426, #1A1C40, #424659)
+}
+
+
+#card {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 25px;
+
+    background: linear-gradient(to bottom, #424659, #7289A6);
+
+    height: 400px;
+    width: 300px;
+
+    margin: 200px auto 0px auto;
+
+    border-radius: 15px;
+
+    outline: 3px solid black;
+
+    box-shadow: 10px 10px 15px #18192073;
+}
+
+a {
+    text-decoration: none;
+}
+
+#name {
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+#gradientinsta {
+    background: linear-gradient(to right, #7D4BBF, #E43D5E, #FDC071);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#imagecat {
+    padding-top: 10px;
+}
+
+#instabuttom {
+    font-size: 20px;
+    margin: auto;
+    background-color: #303241;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px #2325309a;
+    cursor: pointer;
+    transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    -moz-transition: 0.5s;
+    transition: 0.5s;
+}
+
+#instabuttom:hover {
+    background-color: #22232e;
+    transform: translateY(-8px);
+    -moz-transform: translateY(-8px);
+    -ms-transform: translateY(-8px);
+    -o-transform: translateY(-8px);
+    transform: translateY(-8px);
+}
+
+#imginsta {
+    padding-right: 10px;
+}
+
+#githubbuttom {
+    font-size: 20px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #303241;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px #2325309a;
+    cursor: pointer;
+    transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    -moz-transition: 0.5s;
+    transition: 0.5s;
+}
+
+#githubbuttom:hover {
+    background-color: #22232e;
+    transform: translateY(-8px);
+    -moz-transform: translateY(-8px);
+    -ms-transform: translateY(-8px);
+    -o-transform: translateY(-8px);
+    transform: translateY(-8px);
+}
+
+#imghub {
+    padding-right: 10px;
+}
+
+#linkgit {
+    color: black;
+}
+
+#discbuttom {
+    font-size: 20px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #303241;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px #2325309a;
+    cursor: pointer;
+    transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    -moz-transition: 0.5s;
+    transition: 0.5s;
+}
+
+#discbuttom:hover {
+    background-color: #22232e;
+    transform: translateY(-8px);
+    -moz-transform: translateY(-8px);
+    -ms-transform: translateY(-8px);
+    -o-transform: translateY(-8px);
+    transform: translateY(-8px);
+}
+
+#imgdisc {
+    padding-right: 10px;
+}
+
+#linkdisc {
+    color: #636AF2;
+}
+
+#emailbuttom {
+    font-size: 20px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #303241;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px #2325309a;
+    cursor: pointer;
+    transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    -moz-transition: 0.5s;
+    transition: 0.5s;
+}
+
+#emailbuttom:hover {
+    background-color: #22232e;
+    transform: translateY(-8px);
+    -moz-transform: translateY(-8px);
+    -ms-transform: translateY(-8px);
+    -o-transform: translateY(-8px);
+    transform: translateY(-8px);
+}
+
+#imgemail {
+    padding-right: 10px;
+}
+
+#linkemail {
+    background: linear-gradient(to right, #1E91D9, #D93636, #F2AE2E, #4CA649);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+footer {
+    padding-top: 5px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #7289A6; 
+}
